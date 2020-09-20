@@ -1,0 +1,10 @@
+GET http://localhost:8080/?path=D:\\!projects
+Accept: application/json
+
+<> 2020-09-20T101023.200.txt
+<> 2020-09-20T100841.200.txt
+<> 2020-09-20T095826.200.html
+<> 2020-09-20T095632.200.html
+<> 2020-09-19T104818.200.html
+
+###
